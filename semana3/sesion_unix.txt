@@ -1,0 +1,15 @@
+Script started on 2026-01-20 01:33:46+00:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="95" LINES="43"]
+[?2004h[0;32m@davidegui [0m➜ [1;34m/workspaces/UNIX_2-SIN-2A_2026_ene_mar/semana3 [0;36m([1;31msemana3[0;36m) [0m$ ls
+[?2004l
+'script s3'   script_s3.sh   sesion_unix.txt
+[?2004h[0;32m@davidegui [0m➜ [1;34m/workspaces/UNIX_2-SIN-2A_2026_ene_mar/semana3 [0;36m([1;31msemana3[0;36m) [0m$ pwd
+[?2004l
+/workspaces/UNIX_2-SIN-2A_2026_ene_mar/semana3
+[?2004h[0;32m@davidegui [0m➜ [1;34m/workspaces/UNIX_2-SIN-2A_2026_ene_mar/semana3 [0;36m([1;31msemana3[0;36m) [0m$ uren[K[K[K[K[K[K[K[K[K
+[?2004l
+David
+[?2004h[0;32m@davidegui [0m➜ [1;34m/workspaces/UNIX_2-SIN-2A_2026_ene_mar/semana3 [0;36m([1;31msemana3[0;36m) [0m$ exirt[K[Kt
+[?2004l
+exit
+
+Script done on 2026-01-20 01:34:41+00:00 [COMMAND_EXIT_CODE="0"]

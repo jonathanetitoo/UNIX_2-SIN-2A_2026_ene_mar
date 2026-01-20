@@ -8,3 +8,7 @@ echo Hola UNIX2
 printf 'Hola %s\n' 'Hola UNIX'
 ps -a -u -x
 ps -aux
+mkdir test
+ls
+rmdir test
+ls

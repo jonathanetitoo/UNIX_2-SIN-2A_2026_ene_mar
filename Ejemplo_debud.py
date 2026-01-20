@@ -1,2 +1,3 @@
 print('uno')
-pri
+print('dos')
+print('tres')    
